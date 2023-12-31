@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.box {
+  width: 60px;
+  height: 60px;
+  background-color: white;
+  border: 3px solid rgba(146, 144, 144, 0.5);
+}
+
+table {
+  border-collapse: collapse;
+}
